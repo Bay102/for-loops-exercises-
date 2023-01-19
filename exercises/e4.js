@@ -2,7 +2,6 @@
 // Return the MIN and the MAX value in the given array of numbers
 // findMinValueInArray([2, 45, 32, 3, 0, 46, 12]) => 0
 // findMaxValueInArray([2, 45, 32, 3, 0, 46, 12]) => 46
-
 export function findMinValueInArray(array) {
   // Your code goes here...
   let min = array[array.length - 1];
